@@ -5,8 +5,8 @@ module.exports = async function ({ dstryr, event, parameters }) {
   try {
     
     const ownerInfo = `
-      Owner: Rejard Bentazar 󱢏
-      FB: https://fb.com/100012874754515
+      Owner: Alvarez Yhana 󱢏
+      FB: https://www.facebook.com/Yhana.alvarez.445
       Github: https://github.com/LeechShares
       FbPage: https://www.facebook.com/leechshares
     `;
